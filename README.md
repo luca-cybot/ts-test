@@ -1,1 +1,1 @@
-# https://luca-cybot.github.io/ts-test/
+# https://luca-cybot.github.io/tstest/
